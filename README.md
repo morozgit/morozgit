@@ -7,8 +7,8 @@
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-![morozgit's GitHub stats](https://github-readme-stats.vercel.app/api?username=morozgit&card_width=100&rank_icon=github&show_icons=true&theme=merko)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=morozgit&layout=compact&hide=javascript,ruby,css,gherkin,go,html,java,php,less&langs_count=8&theme=merko)
+![morozgit's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=morozgit&card_width=100&rank_icon=github&show_icons=true&theme=merko)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=morozgit&layout=compact&hide=javascript,ruby,css,gherkin,go,html,java,php,less&langs_count=8&theme=merko)
 
 Contact me:
 
